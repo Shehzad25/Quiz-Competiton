@@ -19,10 +19,6 @@ Clone the Repository:
 
 Clone this repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/your-username/quiz-competition.git
-cd quiz-competition
 Run the Quiz:
 
 To start the quiz competition, run the following command:
